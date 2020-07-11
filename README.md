@@ -1,8 +1,8 @@
 
-  # Good README  
+  # Good README 
   
   ## Description
-      To create a readme file.
+      Create a dynamic README file.
   ## Table of Contents
       - [Installation](#installation)
       - [Usage](#usage)
@@ -15,7 +15,7 @@
   
   ## Usage
   Examples of how to use this program: 
-  spend less time on creating a README file and more time on the coding aspect
+  create a README file dynamically
   ## License
   MIT
   ## Tests
