@@ -34,12 +34,13 @@
   ## Demo
 
   ![Screenshot](/images/screenshot.PNG)
+  ![Demo](/images/demo.gif)
 
-  ## Contributors
+## Contributors
 
-  No
+No
 
-  ## Contact
+## Contact
 
 ![Badge](https://img.shields.io/badge/Github-goisonberry-4cbbb9)
 
