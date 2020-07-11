@@ -33,7 +33,7 @@
 
   ## Demo
 
-  ![Screenshot](/images/screenshot.png)
+  ![Screenshot](/images/screenshot.PNG)
 
   ## Contributors
 
