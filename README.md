@@ -1,8 +1,8 @@
 
-  # Feel good README 
+  # Good README  
   
   ## Description
-      create a read me
+      To create a readme file.
   ## Table of Contents
       - [Installation](#installation)
       - [Usage](#usage)
@@ -11,13 +11,13 @@
       - [Contributors](#contributors)
   ## Installation
   Packages required to run this program are: 
-  inquirer
+  inquirer and axios
   
   ## Usage
   Examples of how to use this program: 
-  No
+  spend less time on creating a README file and more time on the coding aspect
   ## License
-  MIT,GPL
+  MIT
   ## Tests
   To test, run the following command:
   node
